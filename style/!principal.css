@@ -1,0 +1,58 @@
+body {
+    color: white;
+    background-color: black
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+    text-shadow: 5px 5px 5px red;
+}
+
+#imge {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    height: 350px;
+}
+
+#botoes {
+    text-align: center;
+}
+
+#opcoes {
+    text-align: center;
+}
+
+#textos {
+    color: white;
+    text-align: center;
+}
+
+#score {
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+    font: normal 20pt Arial;
+}
+
+footer {
+    text-align: center;
+}
+
+.page-logo {
+    width: 200px;
+}
+
+.alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
